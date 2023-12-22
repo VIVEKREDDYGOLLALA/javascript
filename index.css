@@ -7,8 +7,8 @@ body {
 }
 
 h1 {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 10px; 
+    margin-bottom: 10px; 
 }
 
 h2 {
@@ -29,9 +29,9 @@ button {
 }
 
 #increment-btn {
-    background: darkred;
+    background: red;
 }
 
 #save-btn {
-    background: darkgreen;
+    background: green;
 }
